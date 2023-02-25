@@ -2,4 +2,3 @@
 
  Foi usado  HTML, CSS e JavaScript com a integração da api do OpenWeather.
 
-!
